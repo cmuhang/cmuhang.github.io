@@ -19,7 +19,7 @@ main:
   - title: "LEFuse: Joint Low-Light Enhancement and Image Fusion for Nighttime Infrared and Visible Images"
     authors: "<strong>Muhang Cheng</strong>, Haiyan Huang, Xiangyu Liu, Hongwei Mo, Xiongbo Zhao, Songling Wu"
     conference_short: Neurocomputing
-    conference: "Neurocomputing · JCR Q1, 2025."
+    conference: "Neurocomputing · CCF-C · JCR Q1, 2025."
     image: ./assets/img/lefuse.png
     citation_key: lefuse
 
