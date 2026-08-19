@@ -6,6 +6,6 @@
   </div>
   <div class="wechat-content">
     <h3>深读视觉</h3>
-    <p>分享图像融合、图像增强、脉冲神经网络与多模态大模型相关的研究进展和科研思考。</p>
+    <p>Sharing research advances and insights in image fusion, image enhancement, spiking neural networks, and multimodal large language models.</p>
   </div>
 </div>
