@@ -10,14 +10,12 @@ main:
   - title: "ULightIF: Unsupervised Low Light Infrared and Visible Image Fusion Method"
     authors: "<strong>Muhang Cheng</strong>, Haiyan Huang, Hongwei Mo"
     conference_short: TMM
-    conference: "IEEE Transactions on Multimedia (TMM) · CCF-A · JCR Q1, 2026, pp. 1–13."
-    doi: https://doi.org/10.1109/TMM.2026.3723605
+    conference: "IEEE Transactions on Multimedia (TMM) · CCF-A · JCR Q1, 2026."
     notes: Early Access
     image: ./assets/img/ulightif.png
 
   - title: "FDFuse: Infrared and Visible Image Fusion Based on Feature Decomposition"
     authors: "<strong>Muhang Cheng</strong>, Haiyan Huang, Xiangyu Liu, Hongwei Mo, Songling Wu, Xiongbo Zhao"
     conference_short: TIM
-    conference: "IEEE Transactions on Instrumentation and Measurement (TIM) · JCR Q1, vol. 74, 2025, pp. 1–13."
-    doi: https://doi.org/10.1109/TIM.2025.3551460
+    conference: "IEEE Transactions on Instrumentation and Measurement (TIM) · JCR Q1, 2025."
     image: ./assets/img/fdfuse.png
