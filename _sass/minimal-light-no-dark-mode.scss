@@ -17,7 +17,8 @@
 
 .wechat-cover img {
   display: block;
-  width: 100%;
+  width: 84%;
+  margin: 0 auto;
   border-radius: 10px;
 }
 
@@ -28,32 +29,13 @@
 
 .wechat-content p { margin: 0 0 12px; }
 
-.wechat-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-  margin-bottom: 12px;
-}
-
-.wechat-tags span {
-  padding: 3px 9px;
-  border-radius: 999px;
-  background: rgba(7, 193, 96, 0.12);
-  color: #087f46;
-  font-size: 0.78rem;
-}
-
-.wechat-hint {
-  color: #6b7280;
-  font-size: 0.86rem;
-}
-
 @media screen and (max-width: 700px) {
   .wechat-card {
     grid-template-columns: 1fr;
     gap: 14px;
     padding: 12px;
   }
+  .wechat-cover img { width: 90%; }
 }
 
 .social-icons a{

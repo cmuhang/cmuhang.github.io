@@ -6,13 +6,6 @@
   </div>
   <div class="wechat-content">
     <h3>深读视觉</h3>
-    <p>分享图像融合、脉冲神经网络与多模态大模型相关的研究进展和科研思考。</p>
-    <div class="wechat-tags">
-      <span>Image Fusion</span>
-      <span>SNNs</span>
-      <span>MLLMs</span>
-    </div>
-    <p class="wechat-hint">微信扫码或搜索“深读视觉”关注公众号</p>
+    <p>分享图像融合、图像增强、脉冲神经网络与多模态大模型相关的研究进展和科研思考。</p>
   </div>
 </div>
-
