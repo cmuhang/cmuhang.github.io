@@ -1,13 +1,14 @@
 # Basic Information
 title: Muhang Cheng
 position: Ph.D. Student
-affiliation: Your Affiliation
+affiliation: Wuhan University
+affiliation_link: https://www.whu.edu.cn/
 email: cmuhang@whu.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Muhang Cheng, 成牧航, image fusion, spiking neural networks, multimodal large language models
-description: Academic homepage of Muhang Cheng (成牧航), focusing on image fusion, spiking neural networks, and multimodal large language models.
+keywords: Muhang Cheng, 成牧航, image fusion, spiking neural networks, SNNs, multimodal large language models, MLLMs
+description: Academic homepage of Muhang Cheng (成牧航), focusing on image fusion, spiking neural networks (SNNs), and multimodal large language models (MLLMs).
 canonical: https://cmuhang.github.io/
 
 # Links 
