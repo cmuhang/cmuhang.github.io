@@ -24,3 +24,5 @@ I am **Muhang Cheng (成牧航)**. My research focuses on image fusion, spiking 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/wechat.md %}
