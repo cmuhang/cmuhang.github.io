@@ -1,0 +1,34 @@
+{
+  "source": "https://scholar.google.com.au/citations?user=nG2zY38AAAAJ&hl=en",
+  "last_updated": "2026-08-19",
+  "papers": {
+    "spikevfuse": {
+      "title": "SpikeVFuse: Enhancing Infrared and Visible Image Fusion with Spiking Neural Networks",
+      "scholar_id": null,
+      "count": 0,
+      "indexed": false,
+      "url": "https://scholar.google.com.au/citations?user=nG2zY38AAAAJ&hl=en"
+    },
+    "ulightif": {
+      "title": "ULightIF: Unsupervised Low Light Infrared and Visible Image Fusion Method",
+      "scholar_id": "nG2zY38AAAAJ:d1gkVwhDpl0C",
+      "count": 0,
+      "indexed": true,
+      "url": "https://scholar.google.com.au/citations?view_op=view_citation&hl=en&user=nG2zY38AAAAJ&pagesize=100&citation_for_view=nG2zY38AAAAJ:d1gkVwhDpl0C"
+    },
+    "lefuse": {
+      "title": "LEFuse: Joint low-light enhancement and image fusion for nighttime infrared and visible images",
+      "scholar_id": "nG2zY38AAAAJ:u5HHmVD_uO8C",
+      "count": 30,
+      "indexed": true,
+      "url": "https://scholar.google.com.au/scholar?oi=bibs&hl=en&cites=65570436494744489"
+    },
+    "fdfuse": {
+      "title": "FDFuse: Infrared and visible image fusion based on feature decomposition",
+      "scholar_id": "nG2zY38AAAAJ:u-x6o8ySG0sC",
+      "count": 13,
+      "indexed": true,
+      "url": "https://scholar.google.com.au/scholar?oi=bibs&hl=en&cites=8717824568274548035"
+    }
+  }
+}

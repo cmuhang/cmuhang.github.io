@@ -23,6 +23,12 @@
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
+      {% assign citation = site.data.citations.papers[link.citation_key] %}
+      {% if citation %}
+      <a href="{{ citation.url }}" class="citation-badge" data-citation-key="{{ link.citation_key }}" target="_blank" rel="noopener" aria-label="Google Scholar citations for {{ link.title }}">
+        <i class="ai ai-google-scholar"></i> Citations: <span class="citation-count">{% if citation.indexed %}{{ citation.count }}{% else %}—{% endif %}</span>
+      </a>
+      {% endif %}
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       {% endif %}

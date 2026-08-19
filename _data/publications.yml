@@ -6,6 +6,7 @@ main:
     conference: "IEEE Transactions on Multimedia (TMM) · CCF-A · JCR Q1, 2026."
     notes: Accepted
     image: ./assets/img/spikevfuse.png
+    citation_key: spikevfuse
 
   - title: "ULightIF: Unsupervised Low Light Infrared and Visible Image Fusion Method"
     authors: "<strong>Muhang Cheng</strong>, Haiyan Huang, Hongwei Mo"
@@ -13,9 +14,18 @@ main:
     conference: "IEEE Transactions on Multimedia (TMM) · CCF-A · JCR Q1, 2026."
     notes: Early Access
     image: ./assets/img/ulightif.png
+    citation_key: ulightif
+
+  - title: "LEFuse: Joint Low-Light Enhancement and Image Fusion for Nighttime Infrared and Visible Images"
+    authors: "<strong>Muhang Cheng</strong>, Haiyan Huang, Xiangyu Liu, Hongwei Mo, Xiongbo Zhao, Songling Wu"
+    conference_short: Neurocomputing
+    conference: "Neurocomputing · JCR Q1, 2025."
+    image: ./assets/img/lefuse.png
+    citation_key: lefuse
 
   - title: "FDFuse: Infrared and Visible Image Fusion Based on Feature Decomposition"
     authors: "<strong>Muhang Cheng</strong>, Haiyan Huang, Xiangyu Liu, Hongwei Mo, Songling Wu, Xiongbo Zhao"
     conference_short: TIM
     conference: "IEEE Transactions on Instrumentation and Measurement (TIM) · JCR Q1, 2025."
     image: ./assets/img/fdfuse.png
+    citation_key: fdfuse
