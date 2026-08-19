@@ -1,22 +1,23 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "SpikeVFuse: Enhancing Infrared and Visible Image Fusion with Spiking Neural Networks"
+    authors: "<strong>Muhang Cheng</strong>, Hongwei Mo"
+    conference_short: TMM
+    conference: "IEEE Transactions on Multimedia (TMM) · CCF-A · JCR Q1, 2026."
+    notes: Accepted
+    image: ./assets/img/spikevfuse.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "ULightIF: Unsupervised Low Light Infrared and Visible Image Fusion Method"
+    authors: "<strong>Muhang Cheng</strong>, Haiyan Huang, Hongwei Mo"
+    conference_short: TMM
+    conference: "IEEE Transactions on Multimedia (TMM) · CCF-A · JCR Q1, 2026, pp. 1–13."
+    doi: https://doi.org/10.1109/TMM.2026.3723605
+    notes: Early Access
+    image: ./assets/img/ulightif.png
+
+  - title: "FDFuse: Infrared and Visible Image Fusion Based on Feature Decomposition"
+    authors: "<strong>Muhang Cheng</strong>, Haiyan Huang, Xiangyu Liu, Hongwei Mo, Songling Wu, Xiongbo Zhao"
+    conference_short: TIM
+    conference: "IEEE Transactions on Instrumentation and Measurement (TIM) · JCR Q1, vol. 74, 2025, pp. 1–13."
+    doi: https://doi.org/10.1109/TIM.2025.3551460
+    image: ./assets/img/fdfuse.png

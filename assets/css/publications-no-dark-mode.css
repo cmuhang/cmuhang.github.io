@@ -50,6 +50,10 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .title { font-weight: bolder; }
 
+.publications ol.bibliography li .author { color: #777777; }
+
+.publications ol.bibliography li .author strong { color: #000000; font-weight: 700; }
+
 .publications ol.bibliography li .author a { border-bottom: 1px var(--global-theme-color); }
 
 .publications ol.bibliography li .author a:hover { border-bottom-style: solid; text-decoration: none; }
