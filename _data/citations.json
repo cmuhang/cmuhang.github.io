@@ -1,6 +1,6 @@
 {
   "source": "https://scholar.google.com.au/citations?user=nG2zY38AAAAJ&hl=en",
-  "last_updated": "2026-09-09",
+  "last_updated": "2026-09-13",
   "papers": {
     "spikevfuse": {
       "title": "SpikeVFuse: Enhancing Infrared and Visible Image Fusion with Spiking Neural Networks",
@@ -19,14 +19,14 @@
     "lefuse": {
       "title": "LEFuse: Joint low-light enhancement and image fusion for nighttime infrared and visible images",
       "scholar_id": "nG2zY38AAAAJ:u5HHmVD_uO8C",
-      "count": 33,
+      "count": 34,
       "indexed": true,
       "url": "https://scholar.google.com.au/scholar?oi=bibs&hl=en&cites=65570436494744489"
     },
     "fdfuse": {
       "title": "FDFuse: Infrared and visible image fusion based on feature decomposition",
       "scholar_id": "nG2zY38AAAAJ:u-x6o8ySG0sC",
-      "count": 16,
+      "count": 17,
       "indexed": true,
       "url": "https://scholar.google.com.au/scholar?oi=bibs&hl=en&cites=8717824568274548035"
     }
