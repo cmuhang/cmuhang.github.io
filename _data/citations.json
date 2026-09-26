@@ -1,6 +1,6 @@
 {
   "source": "https://scholar.google.com.au/citations?user=nG2zY38AAAAJ&hl=en",
-  "last_updated": "2026-09-25",
+  "last_updated": "2026-09-26",
   "papers": {
     "spikevfuse": {
       "title": "SpikeVFuse: Enhancing Infrared and Visible Image Fusion with Spiking Neural Networks",
@@ -19,7 +19,7 @@
     "lefuse": {
       "title": "LEFuse: Joint low-light enhancement and image fusion for nighttime infrared and visible images",
       "scholar_id": "nG2zY38AAAAJ:u5HHmVD_uO8C",
-      "count": 35,
+      "count": 36,
       "indexed": true,
       "url": "https://scholar.google.com.au/scholar?oi=bibs&hl=en&cites=65570436494744489"
     },
